@@ -1,0 +1,35 @@
+# === AI & Whisper Support ===
+faster-whisper
+openai-whisper
+
+# === Video & Audio Processing ===
+moviepy==1.0.3
+ffmpeg-python
+gTTS
+sounddevice
+pydub
+
+# === Translation & Text ===
+deep-translator
+transformers
+
+# === Support Libraries ===
+numpy>=1.26.0          # Compatible with Python 3.13
+Pillow>=10.2.0         # Works with Python 3.13
+requests
+tqdm
+jinja2
+altair
+matplotlib
+aiofiles
+httpx
+importlib-resources
+
+# === Optional/Common ===
+markdown-it-py
+mdurl
+pyyaml
+scipy
+keyboard
+nbformat
+nbconvert

@@ -1,0 +1,10 @@
+# Ignore temp chunk files and output WAVs
+data/audio/output/converted.wav
+data/audio/output/mic_input.wav
+data/audio/temp_chunks/
+*.wav
+
+# Ignore transcript if you generate multiple versions
+data/transcripts/*.txt
+
+.env
