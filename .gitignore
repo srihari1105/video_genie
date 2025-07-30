@@ -1,10 +1,27 @@
-# Ignore temp chunk files and output WAVs
-data/audio/output/converted.wav
-data/audio/output/mic_input.wav
-data/audio/temp_chunks/
-*.wav
+# Python
+__pycache__/
+*.py[cod]
+*.so
 
-# Ignore transcript if you generate multiple versions
-data/transcripts/*.txt
+# Virtual environment
+.venv/
+env/
 
-.env
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Colab outputs
+*.zip
+*.ckpt
+*.pt
+
+
+#originl scripts
+scripts_original/

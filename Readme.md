@@ -40,8 +40,8 @@ This is a command-line based AI video editor that converts your **voice or story
 ```
 project/
 ├── main.py
-├── scripts/
-│   ├── generate_audio.py
+├── scripts/            # was locked in gihub and under development 
+│   ├── generate_audio.py                       
 │   ├── speech_to_text.py
 │   ├── save_story.py
 │   ├── text_to_image_prompt.py
@@ -68,7 +68,7 @@ project/
 1. Clone the repo:
 
    ```
-   git clone https://github.com/your-username/ai-video-editor.git
+   git clone https://github.com/srihari1105/ai-video-editor.git
    cd ai-video-editor
    ```
 
@@ -144,7 +144,12 @@ Thanks to:
 
 This was my **first end-to-end AI project** — built with passion, learning, and a lot of debugging 💥
 
-📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/)
+📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/srihari-singupurapu)
 🎥 Demo video, docs, and UI will come in the next version!
 
 ---
+
+
+🚫 Note: Core project logic (e.g., image generation, audio processing, etc.) has been removed from public access to prevent plagiarism.
+
+This project is shared only for **portfolio demonstration** purposes. Please do not clone and claim as your own.

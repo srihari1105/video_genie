@@ -55,7 +55,7 @@ project/
 - Initialized Git and connected to remote repo:
   ```bash
   git init
-  git remote add origin https://github.com/yourusername/project.git
+  git remote add origin https://github.com/srihari1105/project.git
   git add .
   git commit -m "Initial commit"
   git branch -M main
@@ -83,6 +83,6 @@ project/
 - Save transcript to file and update GitHub
 
 ---
-
-🗓️ Date: [Enter the actual date here]  
+ 
 🧑‍💻 Completed by: Srihari (Creator | Coder | Hustler)
+https://www.linkedin.com/in/srihari-singupurapu

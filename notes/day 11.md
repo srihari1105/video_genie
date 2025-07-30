@@ -90,10 +90,3 @@ Now, with a single button click, the app uploads prompts and opens Colab with ev
 
 ---
 
-### 🖼️ Prompt to generate LinkedIn Post Image
-
-"An AI developer triggering image generation in Google Colab, showing a pipeline interface with audio-to-video steps, Gradio web UI on the left, Colab on the right, stylized in cinematic lighting, futuristic digital art, professional workstation setup"
-
----
-
-Let me know when you’re ready to start Day 12!
